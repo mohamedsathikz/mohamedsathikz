@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Sathik%20Z&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20-%20Python%20and%20SQL%20-%20Business%20Intelligence&descAlignY=62&descSize=16" width="100%"/>
 
-<a href="https://linkedin.com/in/mohamed-sathik-9aa3a0321"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Final-Year+AI+%26+Data+Science+Student" alt="Typing SVG" /></a>
+<a href="https://linkedin.com/in/mohamed-sathik-9aa3a0321"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;AI+%26+Data+Science+Graduate" alt="Typing SVG" /></a>
 
 </div>
 
